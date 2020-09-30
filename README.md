@@ -10,7 +10,7 @@ Steps needs to be followed to configure the project:
 
 3. Drop the table and Create the table for LICPolicy.
 
-4.Make sure there shouldn't be any compilation errors before you run an application.
+4. Make sure there shouldn't be any compilation errors before you run an application.
 
 5. Business of the application is, it will allow user to perform the create, delete, update and read operations by providing the selected options based on his/her needs.
 
